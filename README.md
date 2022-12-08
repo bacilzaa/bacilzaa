@@ -1,7 +1,7 @@
 - 👋 Hi, I’m worawit naknawa
 - 👀 I’m interested in Development , Data Science and More 
 - 🌱 I’m currently learning Kotlin , Python and Javascript
-- 💞️ I’m looking to collaborate on Metaverse
+- 💞️ I’m looking to collaborate on -
 - 📫 How to reach me > email : basinnaja@hotmail.com
 
 <!---
